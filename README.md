@@ -3,7 +3,7 @@ This Java project focuses on implementing a secure file encryption and decryptio
 
 Key Features:
 
-    DES Encryption and Decryption: Utilizes the Java Cipher class to perform encryption and decryption operations using the DES algorithm.
+ DES Encryption and Decryption: Utilizes the Java Cipher class to perform encryption and decryption operations using the DES algorithm.
     Key Generation: Implements key generation using the KeyGenerator class for enhanced security.
     Initialization Vector (IV): Enhances security by employing an initialization vector (IV) in Cipher Block Chaining (CBC) mode.
     File Handling: Provides methods for encrypting and decrypting files of various sizes, ensuring smooth handling of input and output streams.
